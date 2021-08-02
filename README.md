@@ -1,3 +1,4 @@
+<img align ="middle" alt = "Coding" width="400" src ="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80">
 <h1 align="center">Hi 👋, I'm Sahil Negi</h1>
 <h3 align="center">A passionate developer and coder</h3>
 
@@ -8,6 +9,8 @@
 - 📫 How to reach me **sahilnegi.paang@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+- 🍕 Ask me about  **Web Development and DSA 🕸 **.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
