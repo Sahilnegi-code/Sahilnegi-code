@@ -1,4 +1,9 @@
-<img align ="middle" alt = "Coding" width="400" src ="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=752&q=80">
+<h1 align="center">Hi, I'm Sahil Negi  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Learning And Upgrading MySelf Day-By-Day !</h2>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+ <h3> Its Great To Have you here </h3>
 <h1 align="center">Hi  I'm Sahil Negi 👋 ✌  </h1>
 <h3 align="center">A passionate developer and coder</h3>
 
