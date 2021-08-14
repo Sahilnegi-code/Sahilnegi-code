@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
  <h3> Its Great To Have you here </h3>
-<h1 align="center">Hi  I'm Sahil Negi 👋 ✌  </h1>
+<h1 align="center">👋 ✌  </h1>
 <h3 align="center">A passionate developer and coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilnegi-code&label=Profile%20views&color=0e75b6&style=flat" alt="sahilnegi-code" /> </p>
