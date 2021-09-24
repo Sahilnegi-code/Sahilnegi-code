@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilne79936496" target="blank"><img src="https://img.shields.io/twitter/follow/sahilne79936496?logo=twitter&style=for-the-badge" alt="sahilne79936496" /></a> </p>
 
-- 📫 How to reach me **sahilnegi.paang@gmail.com**
+- 📫 How to reach me **sahilnegi.pang@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
